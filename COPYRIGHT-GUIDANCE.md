@@ -85,10 +85,10 @@ SPDX-License-Identifier: AGPL-3.0-or-later
 
 *&lt; NOTE: this section is to be updated with a link to the local CLA assistant that TechOps will set up if CLA tests are satisfactory. DO NOT use the current link for any production purposes!*
 
-**To test out an existing CLA integration create a Pull Request for https://github.com/daifoundation/docs**
+**To try out a test CLA integration create a Pull Request for https://github.com/daifoundation/docs**
 
 *Ref: [https://github.com/cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) >*
-
+### Setup
 To set up your Github repository to check that contributors have signed a Contributor License Agreement and enable them to do so if they haven’t, do the following:
 
 
