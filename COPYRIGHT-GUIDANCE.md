@@ -61,7 +61,7 @@ The copyright holder for the code in this repository is:
 © 2022 Dai Foundation <www.daifoundation.org>
 
 ```
-
+NOTE: If you have your code in another Github project than the `makerdao` project, then notify Dai Foundation about the location of the software. Do this by sending an email to support@daifoundation.org specifying where your repository resides.
 
 ## What to do if I am contributing to software that already has other copyright holders than the Dai Foundation
 
