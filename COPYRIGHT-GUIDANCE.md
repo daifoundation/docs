@@ -77,6 +77,7 @@ SPDX-FileCopyrightText: © 2022 Dai Foundation <www.daifoundation.org>
 SPDX-License-Identifier: AGPL-3.0-or-later
 
 ```
+ 
 Please note that while Maker Foundation transferred all Maker Protocol software copyrights to Dai Foundation, there may still exist code snippets that include copyright statements referring to Maker Ecosystem Growth Holdings, INC. (MEGH). In such a case, do replace "Maker Ecosystem Growth Holdings, INC." with Dai Foundation while keeping the year of first contribution. 
 
 For example, if the code includes
