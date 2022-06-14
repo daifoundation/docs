@@ -77,7 +77,14 @@ SPDX-FileCopyrightText: © 2022 Dai Foundation <www.daifoundation.org>
 SPDX-License-Identifier: AGPL-3.0-or-later
 
 ```
-  
+ 
+Please note that while Maker Foundation transferred all Maker Protocol software copyrights to Dai Foundation, there may still exist code snippets that include copyright statements referring to Maker Ecosystem Growth Holdings, INC. (MEGH). In such a case, do replace "Maker Ecosystem Growth Holdings, INC." with Dai Foundation while keeping the year of first contribution. 
+
+For example, if the code includes
+`Copyright (C) 2018 Maker Ecosystem Growth Holdings, INC.` then update the statement like this:
+`SPDX-FileCopyrightText: © 2018 Dai Foundation <www.daifoundation.org>`
+
+You may wonder whether this is ok, since Dai Foundation only was created in 2019. It is ok because the prior contributor (MEGH) has transferred it copyrights to Dai Foundation. The statement in the example above shall be read as: "The copyright for the software that was created from 2018 and onwards belong to Dai Foundation".  
 
 # Appendix
 
