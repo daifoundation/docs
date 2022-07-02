@@ -90,16 +90,23 @@ You may wonder whether this is ok, since Dai Foundation only was created in 2019
 
 ## Contributor License Agreement (CLA) assistant setup
 
-*&lt; NOTE: this section is to be updated with a link to the local CLA assistant that TechOps will set up if CLA tests are satisfactory. DO NOT use the current link for any production purposes!*
+There is an open source Contributor License Agreement Assistant available at [https://github.com/cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant), and SAP is running a deployment of this at [https://cla-assistant.io/](https://cla-assistant.io/).
 
-**To try out a test CLA integration create a Pull Request for https://github.com/daifoundation/docs**
+The solution collects and stores the followling personal data from a contributor which accepts the [https://gist.github.com/daifoundationadmin/e698f568fb9db41454d2a79f4ebfd592](MakerDAO Individual Contributor License Agreement)
 
-*Ref: [https://github.com/cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) >*
+- Your GitHubID;
+- The access token created to log you into GitHub (Note: we do not store your password); 
+The CLA can be configured to collect additional data, but this does not happen for the MakerDAO CLA.
+
+In order to ensure that those data aren't stored by third party that MakerDAO has no relationship to, Dai Foundation has created a fork of the solution. The code resides at [https://github.com/daifoundation/cla-assistant](https://github.com/daifoundation/cla-assistant), and the deployment of this at [https://cla.daifoundation.org/](https://cla.daifoundation.org).
+
+**If you want to test the Dai Foundation CLA Assistant you can create a Pull Request for one of the documents in https://github.com/daifoundation/docs**
+
 ### Setup
 To set up your Github repository to check that contributors have signed a Contributor License Agreement and enable them to do so if they haven’t, do the following:
 
 
-* Go to [https://cla-assistant.io/](https://cla-assistant.io/)
+* Go to [https://cla.daifoundation.org/](https://cla.daifoundation.org)
 
 * Make sure that you are signed with the Github user that is admin on the Github repository that you want to set up the integration for
 
@@ -107,7 +114,7 @@ To set up your Github repository to check that contributors have signed a Contri
 
 * 1) the repository you want to set up CLA assistant for
 
-* 2) the location of the CLA - specify \
+* 2) the location of the CLA - specify the following gist \
 
 [https://gist.github.com/daifoundationadmin/e698f568fb9db41454d2a79f4ebfd592](https://gist.github.com/daifoundationadmin/e698f568fb9db41454d2a79f4ebfd592)
 
@@ -117,4 +124,4 @@ To set up your Github repository to check that contributors have signed a Contri
 
   
 
-Now, When contributors create a Pull Request, the CLA assistant checks whether they have signed the CLA, and blocks the PUll Request until the CLA is signed
+Now, When contributors create a Pull Request, the CLA assistant checks whether they have signed the CLA, and blocks the PUll Request until the CLA is signed.
