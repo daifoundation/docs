@@ -93,7 +93,9 @@ You may wonder whether this is ok, since Dai Foundation only was created in 2019
 There is an open source Contributor License Agreement Assistant available at [https://github.com/cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant), and SAP is running a deployment of this at [https://cla-assistant.io/](https://cla-assistant.io/).
 
 The solution collects and stores the followling personal data from a contributor which accepts the  \
-[https://gist.github.com/daifoundationadmin/e698f568fb9db41454d2a79f4ebfd592](MakerDAO Individual Contributor License Agreement)
+
+[MakerDAO Individual Contributor License Agreement](https://gist.github.com/daifoundationadmin/e698f568fb9db41454d2a79f4ebfd592/)
+
 
 - Your GitHubID;
 - The access token created to log you into GitHub (Note: we do not store your password); 
