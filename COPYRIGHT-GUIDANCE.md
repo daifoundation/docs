@@ -1,19 +1,10 @@
 
 
-# DRAFT Guidance for creators of MakerDAO assets on how to assign Copyright to Dai Foundation
+# Guidance for MakerDAO software developers on how to assign Copyright
 
-  
-
-This document contains guidance for how individual contributors to MakerDAO can assign copyright to Dai Foundation who is set up to be the guardian of MakerDAO’s intangible assets. The document also includes guidance for Github repository administrators on how to ensure that the software contributed has its copyright assigned to Dai Foundation.
-
-  
-  
+This document contains guidance for how individuals and core units that develop software for MakerDAO can assign copyright to Dai Foundation which is set up to be the guardian of MakerDAO’s intangible assets. The document also includes guidance for Github repository administrators on how to ensure that the software contributed has its copyright assigned to Dai Foundation,  
 
 # Assigning Software Copyright
-
-  
-  
-  
 
 A). Source code: Contributors are encouraged to follow the guidelines in this article: 
 https://matija.suklje.name/how-and-why-to-properly-write-copyright-statements-in-your-code \
