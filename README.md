@@ -9,5 +9,3 @@ Do it
 and keep on doing it
 
 Now as a contributor
-
-who only need to sign the CLA once?
