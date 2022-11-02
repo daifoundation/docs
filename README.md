@@ -8,4 +8,4 @@ Do it
 
 and keep on doing it
 
-Now as a contributor
+Now from cool-slejpner
